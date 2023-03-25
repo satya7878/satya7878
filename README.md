@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satya7878
 - 👀 I’m interested in software developement 
-- 🌱 I’m currently learning .net core, postgresql, react js
+- 🌱 I’m currently learning .net core, postgresql, jquery, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
